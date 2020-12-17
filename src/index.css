@@ -265,25 +265,11 @@ body {
   color: #ecec1c;
 }
 
-.techs .bootstrap {
-  color: #9300ff;
-}
-
-.techs .sass {
-  color: #c300ff;
-}
 
 .techs .react {
   color: #29c2ff;
 }
 
-.techs .typescript {
-  color: #042f67;
-}
-
-.techs .python {
-  color: #82e1ff;
-}
 
 /* Portfolio */
 .portfolio-container {
