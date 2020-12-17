@@ -364,25 +364,6 @@ body {
   transition: all 0.2s ease-in 0s;
 }
 
-/* Images */
-#reactBasic {
-  background-image: url("./images/certificates/ReactBasic\(HackerRank\).png");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-#html5 {
-  background-image: url("./images/certificates/html5.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-#git {
-  background-image: url("./images/certificates/Git.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
 /* Contact */
 .contact-container {
   font-family: "Exo 2", sans-serif;
